@@ -148,4 +148,13 @@
           font-size: 30px;
         }
       }
+.responsive{
+  width: 100%;
+  height: auto;
+}
+.responsive-iframe{
+  width: 100%;
+  height: 100%;
+}
+      
      
