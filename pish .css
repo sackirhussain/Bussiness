@@ -1,0 +1,113 @@
+.pish-bg{
+    background-color:  #17a2b8;
+  }
+  .pish-bginfo{
+    background-color: #00BFFF;
+  }
+  .pish-tebg{
+    color:  #17a2b8;
+  }
+  
+  .pish-color-black{
+    color: black;
+  }
+
+  .pish-center{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+  .pish-left{
+    text-align: left;
+    align-items: left;
+    justify-content: left;
+    margin-left: .5rem;
+  }
+  .pish-muted{
+    color: gray;
+    font-size: .9rem;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    
+  }
+  .pish-p5{
+padding: 1rem;
+  }
+  .pish-mt4{
+    margin-top: 4rem;
+  }
+  .pish-card{
+    box-shadow: 1px 1px 5px 3px rgb(175, 174, 174);
+    border-radius: .3rem;
+    overflow-wrap: break-word;
+  background-color: white;
+  }
+  .pish-card:hover{
+
+    box-shadow:  2px 2px 6px 4px rgb(175, 174, 174) ;
+  }
+ .pish-card-header{
+   font-family: 'Lobster', cursive;
+   font-size: 2rem;
+  
+ }
+ .pish-img-header{
+  width:"266";
+  height:"87" ;
+ 
+ }
+ .pish-card-title{
+  font-size: small;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  
+ }
+ .pish-card-icon{
+   font-size: 6rem;
+   padding-top: 1.5rem;
+ }
+ .pish-card-body{
+   padding: 1.2rem;
+ }
+ .pish-1st-header{
+   font-size: 2.2rem;
+   font-weight: bold;
+   text-align: center;
+   
+ }
+ .pish-2nd-header{
+   font-family:'Lora'  ;
+   font-weight: bolder;
+   font-size: 1.5rem;
+   text-align: center;
+   padding: 1rem;
+ }
+ .pish-3rd-header{
+   font-family:  'Lobster', cursive;
+   font-size: 1.2rem;
+   text-align-last: right;
+   font-weight: bolder;
+   text-decoration: none;
+padding: .5rem;
+ }
+
+ .pish-left-section{
+   font-size: 1.5rem;
+   letter-spacing: .1rem;
+   font-weight: 501;
+ }
+ .pish-line1{
+   border-width: 3px ;
+ }
+ .post-title{
+   color: black;
+   font-size: .8rem;
+   font-weight: 520;
+
+ }
+ 
+  .pish-small {
+    font-size: .8rem;
+  
+  }
